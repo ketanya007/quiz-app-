@@ -87,6 +87,6 @@ To run this project locally for development purposes, follow these steps:
 
 ## Contribute
 
-If you'd like to contribute to this project, have suggestions for improvement, or wish to add more features, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/quiz-app-django). Your contributions are valued! 🚀
+If you'd like to contribute to this project, have suggestions for improvement, or wish to add more features, please feel free to submit issues or pull requests on [GitHub](). Your contributions are valued! 🚀
 
 Thank you for exploring the Quiz Application. Enjoy learning and testing your knowledge! 🌐
